@@ -234,8 +234,8 @@ The output of this code will result in the following output in our debug console
         name = Margaret;
     },
        {
-        age = 21;
-        name = Joshua;
+        age = 31;
+        name = Fargaret;
     }
 )
 ```
